@@ -1,5 +1,4 @@
 ## Oie sou a Isabelle Franzen, Futura Desenvolvedora de Jogos 🎮
----
 
 Desde pequena sou fascinada por jogos, mas principalmente por como eles são feitos. Por isso comecei a estudar por conta própria a área de programação, aos poucos fui ganhando experiências como programadora e me desenvolvendo como profissional.
 
