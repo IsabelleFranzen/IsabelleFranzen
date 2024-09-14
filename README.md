@@ -4,5 +4,6 @@ Desde pequena sou fascinada por jogos, mas principalmente por como eles são fei
 
 Iniciei no mercado de trabalho muito cedo, trabalhando como atendente de cafeteria. E por anos me mantive trabalhando com o público em diversos ambientes e funções, até que consegui uma oportunidade para trabalhar na área de programação.
 Atualmente trabalho como Aprendiz de TI na empresa GBOEX e estudo **C#** e **SQL**.
+E sou estudante de **Java** do projeto Geração Caldeira realizado no Instituto Caldeira - Porto Alegre/RS.
 
 Mas para tornar realidade meu sonho de ter uma empresa de jogos sei que tenho muito caminho pela frente, e estou dia após dia buscando o conhecimento para realizar meus objetivos. 🍀
